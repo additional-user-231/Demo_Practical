@@ -1,2 +1,1 @@
-# Demo_Practical
-This line added by DUMMY account
+This line added by BOTH (resolved)
